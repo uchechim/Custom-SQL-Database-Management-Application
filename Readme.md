@@ -1,7 +1,7 @@
 # **ETL-Project**
 
 ## **Project Overview**
-An ETL command line based tool with user-authentication (password encryption added) capabilities using Java in order to facilitate extracting/parsing user-inputted SQL-based queries, transforming them into an appropriate format to then be loaded into a custom database.
+An ETL (Extract, Tranform, Load) command line based tool with user-authentication (password encryption added) capabilities using Java in order to facilitate extracting/parsing user-inputted SQL-based queries, transforming them into an appropriate format to then be loaded into a custom database.
 
 ## **Running the Project**
 1 - Download your Java IDE of choice (IntelliJ) preferred and a JDK version of 20 or greater. <br />
